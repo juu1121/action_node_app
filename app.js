@@ -1,6 +1,7 @@
 /*
     app.js 파일
     - 간단한 node js 기반의 웹서버 application
+    - dependency 설치 : npm install
     - 실행방법 : node app.js 
 */
 const express = require('express');
